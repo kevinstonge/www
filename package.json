@@ -1,0 +1,19 @@
+{
+  "name": "www",
+  "version": "4.2.0",
+  "description": "homepage of kevin st.onge",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "kevin st.onge",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "helmet": "^6.0.0",
+    "path": "^0.12.7"
+  }
+}
